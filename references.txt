@@ -1,0 +1,49 @@
+http://ekonomis.unbari.ac.id/index.php/ojsekonomis/article/view/501
+Faktor Penting:
+Pendidikan
+Sanitasi
+
+Faktor Tidak Penting:
+Jaminan Kesehatan
+Jumlah Keluarga
+
+https://journal.feb.unmul.ac.id/index.php/FORUMEKONOMI/article/view/10362/1610
+Faktor Penting:
+UMP
+Pertumbuhan Ekonomi
+
+Faktor Tidak Penting:
+IPM
+Penganguran
+
+https://eprints.ums.ac.id/106053/
+Faktor Penting:
+IPM
+Konsumsi (Pengeluaran)
+Investasi
+Upah Minimum(Pendapatan)
+
+PERBANDINGAN METODE ORDINARY LEAST SQUARE (OLS) DAN REGRESI ROBUST : https://jurnal.unimus.ac.id/index.php/psn12012010/article/view/3000
+
+[PDF] PERBANDINGAN AKURASI PREDIKSI METODE REGRESI LINEAR OLS DENGAN JARINGAN SYARAF TIRUAN: STUDI KASUS DATASET STARTUP
+W Windasari, M Wasiman - jurnal.universitasputrabangsa.ac.id
+
+
+
+Dataset
+Penduduk : https://sulut.bps.go.id/indicator/12/958/1/jumlah-penduduk-menurut-provinsi-di-indonesia.html
+Pendidikan SMA : https://www.bps.go.id/indicator/28/1980/1/tingkat-penyelesaian-pendidikan-menurut-jenjang-pendidikan-dan-provinsi.html
+Sanitasi : https://www.bps.go.id/indicator/29/847/1/persentase-rumah-tangga-menurut-provinsi-dan-memiliki-akses-terhadap-sanitasi-layak.html 
+IPM : https://www.bps.go.id/indicator/26/494/1/-metode-baru-indeks-pembangunan-manusia-menurut-provinsi.html
+Usia Produktif : https://www.bps.go.id/statictable/2016/04/04/1907/penduduk-berumur-15-tahun-ke-atas-menurut-provinsi-dan-jenis-kegiatan-selama-seminggu-yang-lalu-2008---2022.html
+Pertumbuhan Ekonomi : https://www.bps.go.id/indicator/52/291/1/-seri-2010-laju-pertumbuhan-produk-domestik-regional-bruto-atas-dasar-harga-konstan-2010-menurut-provinsi.html
+PLN : https://www.bps.go.id/indicator/29/856/1/persentase-rumah-tangga-menurut-provinsi-tipe-daerah-dan-sumber-penerangan-listrik-pln.html
+Pendapatan : https://www.bps.go.id/statictable/2022/06/29/2201/rata-rata-pendapatan-bersih-berusaha-sendiri-menurut-provinsi-dan-kelompok-umur-2022.html
+Pengeluaran : https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/WVJ1ekI3NzNYeFNqVDdaUjRoWHVjQT09/da_13/1
+Pengangguran : https://www.bps.go.id/indicator/6/543/1/tingkat-pengangguran-terbuka-menurut-provinsi.html
+Kemiskinan : https://jatim.bps.go.id/indicator/23/344/1/persentase-penduduk-miskin-menurut-provinsi-.html
+
+
+
+
+
